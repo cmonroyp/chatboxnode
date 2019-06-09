@@ -1,0 +1,9 @@
+https://d7194ce8.ngrok.io/api/tiempo
+
+para que escuche por defecto un puerto se escribe el sgute comando:
+ngrok http pto
+ejemplo: ngrok http 8899
+
+
+pagina oficial
+https://dashboard.ngrok.com/get-started
